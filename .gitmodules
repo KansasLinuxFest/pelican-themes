@@ -139,3 +139,6 @@
 [submodule "nikhil-theme"]
 	path = nikhil-theme
 	url = https://github.com/gunchu/nikhil-theme
+[submodule "pelican-bootstrap3-components"]
+	path = pelican-bootstrap3-components
+	url = ./pelican-bootstrap3-components/
