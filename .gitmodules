@@ -142,3 +142,6 @@
 [submodule "pelican-bootstrap3-components"]
 	path = pelican-bootstrap3-components
 	url = ./pelican-bootstrap3-components/
+[submodule "pelican-bootstrap3"]
+	path = pelican-bootstrap3
+	url = git@github.com:KansasLinuxFest/pelican-bootstrap3.git
